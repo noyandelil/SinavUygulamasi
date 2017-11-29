@@ -13,15 +13,15 @@
        "konular":["c#","javascript","html"]
     },
     {
-       "kullanici_adi": "VoRTeX",
+       "kullanici_adi": "DelilNoyan1903",
        "sifre": "321987",
-       "isim": "Cumali",
+       "isim": "Delil",
 
-       "soyisim": "Besli",
+       "soyisim": "Noyan",
        "profil_resmi": "resim.jpg",
        "d_tarihi": "22.11.1984",
-       "mezun_oldgu_okul": "Bartın Ünv.",
-       "fakulte": "Yok",
+       "mezun_oldgu_okul": "Namık Kemal Ünv.",
+       "fakulte": "Çorlu Muh ",
        "ozgecmis": "Quia dolor sit amet, consectetur, adipisci velit, neque porro quisquam est qui dolorem ipsum",
        "konular": ["c#", "javascript", "html","T-SQL","Asp.NET MVC"]
     }
